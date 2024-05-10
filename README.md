@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramin</h1>
 <h3 align="center">Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramingahramanzada" alt="ramingahramanzada" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramingahramanzada" alt="ramingahramanzada" /></a> </p>
 
