@@ -19,7 +19,7 @@
 - 🔭 **Currently working on:** [Account Project](https://github.com/RaminGahramanzada/account.git)
 - 🌱 **Learning:** Advanced Java, Spring Boot, PostgreSQL
 - 🎯 **Goal:** Becoming an expert in microservices and distributed systems
-- 📫 **Reach me at:** **Ramin2125@outlook.com**
+- 📫 **Reach me at:** **ramin2125@outlook.com**
 
 ---
 
