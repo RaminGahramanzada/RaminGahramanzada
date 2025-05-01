@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ramin</h1>
 <h3 align="center">Passionate Java Developer | Problem Solver | Tech Enthusiast</h3>
+- 🚀 **Founder of:** [Yarpaq Software Solutions](https://yarpaqweb.onrender.com/) – ERP systems for small businesses
+- 🌐 **Portfolio Website:** [ramin.cloud](https://ramin.cloud)
+
 
 ---
 
