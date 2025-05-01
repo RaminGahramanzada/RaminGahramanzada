@@ -16,10 +16,10 @@
 ---
 
 ### 🌟 About Me:
-- 🔭 **Currently working on:** [Account Project](https://github.com/RaminGahramanzada/account.git)
+- 🔭 **Currently working on:** [Backend RoadMap Project](https://github.com/RaminGahramanzada/BackendRoadMap)
 - 🌱 **Learning:** Advanced Java, Spring Boot, PostgreSQL
 - 🎯 **Goal:** Becoming an expert in microservices and distributed systems
-- 📫 **Reach me at:** **ramin2125@outlook.com**
+- 📫 **Reach me at:** **ramingahramanzada@proton.me**
 
 ---
 
@@ -28,10 +28,9 @@
   <a href="https://www.linkedin.com/in/ramin-gahramanzada-80691b204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://stackoverflow.com/users/22619681" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
   <a href="https://instagram.com/ramin_1546" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.youtube.com/@CodingwithRamin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.hackerrank.com/ramin gahramanzada" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://medium.com/@ramingahramanzada_285" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </p>
-
 ---
 
 ### 🛠️ Languages and Tools:
@@ -60,24 +59,10 @@
 
 ---
 
-### 🎥 Latest YouTube Videos:
-- [Video 1: Intro to Java](https://www.youtube.com/@CodingwithRamin)
-- [Video 2: Spring Boot Basics](https://www.youtube.com/@CodingwithRamin)
-- [Video 3: PostgreSQL CRUD Operations](https://www.youtube.com/@CodingwithRamin)
-
----
-
 ### 💡 Random Developer Quote:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
----
-
-### 🧑‍💻 Projects:
-- [Account Management System](https://github.com/RaminGahramanzada/account.git)
-- [Telegram Bot](https://github.com/RaminGahramanzada/telegram-bot)
-- [Film Website](https://github.com/RaminGahramanzada/film-website)
 
 ---
 
